@@ -1,0 +1,6 @@
+name ="Nero"
+specie="human"
+belief="agnostic"
+marital="single"
+sex="male"
+profession="engineer"
