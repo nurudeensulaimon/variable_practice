@@ -17,3 +17,11 @@ deposit=22.2
 human = true 
 philosophy= true
 image = true 
+
+name = "Dean"
+specie="aquatic"
+belief="atheism"
+
+puts name 
+puts specie 
+puts belief 
