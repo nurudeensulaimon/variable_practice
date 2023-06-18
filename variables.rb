@@ -4,3 +4,9 @@ belief="agnostic"
 marital="single"
 sex="male"
 profession="engineer"
+
+age = 23
+income = 0
+zip_code = 23897
+account_balance = 120
+
