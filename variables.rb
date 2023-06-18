@@ -13,3 +13,7 @@ account_balance = 120
 account = 20.0
 receipt = 12.5
 deposit=22.2
+
+human = true 
+philosophy= true
+image = true 
